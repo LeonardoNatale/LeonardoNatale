@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on DAOs and Web3
-- 🌱 I’m currently learning Solidity and React.js
+- 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on web3 projects
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/leonardo-natale/)
 
