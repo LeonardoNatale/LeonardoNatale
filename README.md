@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on DAOs and Web3
-- 🌱 I’m currently learning React.js
+- 🔭 I’m currently working on Web3 and Finance
+- 🌱 I’m currently learning ClojureScript
 - 👯 I’m looking to collaborate on web3 projects
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/leonardo-natale/)
 
@@ -21,14 +21,21 @@ Here are some ideas to get you started:
 -->
 
 ### Skills
-#### Languages and Packages
+#### Languages
 <p>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_solidity.svg" alt="solidity" width="40"          height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/clojure/clojure-icon.svg" alt="clojure" width="40" height="40"/>  
+</p>
+
+#### Frameworks
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>  
-<!--   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>   -->
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestJS" width="40" height="40"/>
 </p>
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=LeonardoNatale&show_icons=true)](https://github.com/LeonardoNatale/LeonardoNatale)
-
