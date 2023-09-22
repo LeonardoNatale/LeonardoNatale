@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/clojure/clojure-icon.svg" alt="clojure" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_solidity.svg" alt="solidity" width="40" height="40"/>
 </p>
 
 #### Frameworks
