@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestJS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 </p>
 
