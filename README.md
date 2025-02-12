@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Web3 security
+- 🔭 I’m currently working on Decarbonising the Fashion Industry
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/leonardo-natale/)
@@ -38,5 +38,7 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 </p>
 
+<!--
 ![](https://raw.githubusercontent.com/LeonardoNatale/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/LeonardoNatale/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+-->
